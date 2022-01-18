@@ -1,0 +1,13 @@
+.main {
+    width:800px;
+    margin:0 auto;
+}
+
+.grid-container {
+    display: grid;
+    grid-template:max-content;
+    grid-template-columns: 1fr 2fr 1fr;
+    border: 1px;
+    border-color: black;
+    grid-area
+}
